@@ -8,10 +8,7 @@ Return
 ^+C::
 Send ^c
 Send ^t
-Send https://translations.telegram.org/nb/
-Send {enter}
-Sleep 300
-Send {tab}
+Send https://translations.telegram.org/nb/search?query=
 Send ^v
 Send {enter}
 Return
