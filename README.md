@@ -6,7 +6,6 @@ CTRL+ENTER => Quick apply
 
 CTRL+SHIFT+C => Quick search all apps strings for current selection  
 >-copies your current text selection  
--opens a new tab on https://translations.telegram.org (faster for search in all apps)  
--pastes the string in the search input and hit enter
+-opens a new tab and qucikly searches for the string in the translation platform
 
 Thanks to @BnK970 for helping out!
