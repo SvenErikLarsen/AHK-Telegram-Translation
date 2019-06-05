@@ -10,4 +10,7 @@ CTRL+SHIFT+C => Quick search all apps strings for current selection
 
 <b> (Remember to change /nb/ in the script URL to your language code)</b>
 
+### Support and more tools
+Visit https://t.me/translationtools for support and more Translation Platform tools.
+
 Thanks to @BnK970 for helping out!
