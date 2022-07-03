@@ -8,6 +8,8 @@ CTRL+SHIFT+C => Quick search all apps strings for current selection
 >-copies your current text selection  
 -opens a new tab and qucikly searches for the string in the translation platform
 
+CTRL+* => Insert a token wrapped in two asterisks **on each side**
+
 <b> (Remember to change /nb/ in the script URL to your language code)</b>
 
 ### Support and more tools
