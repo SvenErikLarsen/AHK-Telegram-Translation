@@ -10,6 +10,8 @@ CTRL+SHIFT+C => Quick search all apps strings for current selection
 
 CTRL+* => Insert a token wrapped in two asterisks \*\*on each side**
 
+Automatically replace ... (three dots) with … (ellipsis) while typing
+
 <b> (Remember to change /nb/ in the script URL to your language code)</b>
 
 ### Support and more tools
