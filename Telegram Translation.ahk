@@ -18,3 +18,6 @@ Return
 Send **
 Send ^i
 Send **
+
+:*?:...::{U+2026}
+Return
