@@ -21,3 +21,9 @@ Send **
 
 :*?:...::{U+2026}
 Return
+
+:*?:<<::{U+00AB}
+Return
+
+:*?:>>::{U+00BB}
+Return
