@@ -12,6 +12,8 @@ CTRL+* => Insert a token wrapped in two asterisks \*\*on each side**
 
 Automatically replace ... (three dots) with … (ellipsis) while typing
 
+Automatically replace << and >> with « and » while typing
+
 <b> (Remember to change /nb/ in the script URL to your language code)</b>
 
 ### Support and more tools
