@@ -1,8 +1,8 @@
 #IfWinActive, Translations
 ^enter::
-Send {tab}{enter}
+Send ^{enter}
 Sleep 500
-Send {down}
+Send ^{down}
 Return
 
 ^+C::
@@ -12,6 +12,13 @@ Sleep 500
 Send https://translations.telegram.org/nb/search?query=
 Send ^v
 Send {enter}
+Return
+
+^+X::
+Send ^x
+Send [
+Send ^v
+Send ]()
 Return
 
 ^'::
