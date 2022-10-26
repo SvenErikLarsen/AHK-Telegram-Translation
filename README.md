@@ -8,6 +8,8 @@ CTRL+SHIFT+C => Quick search all apps strings for current selection
 >-copies your current text selection  
 -opens a new tab and qucikly searches for the string in the translation platform
 
+CTRL+SHIFT+X => Wraps the selected phrase with [PHRASE]() to quickly make it into a link
+
 CTRL+* => Insert a token wrapped in two asterisks \*\*on each side**
 
 Automatically replace ... (three dots) with … (ellipsis) while typing
