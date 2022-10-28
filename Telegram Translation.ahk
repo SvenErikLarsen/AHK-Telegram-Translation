@@ -7,11 +7,7 @@ Return
 
 ^+C::
 Send ^c
-Send ^t
-Sleep 500
-Send https://translations.telegram.org/nb/search?query=
-Send ^v
-Send {enter}
+run https://translations.telegram.org/nb/search?query=%clipboard%
 Return
 
 ^+X::
@@ -25,6 +21,7 @@ Return
 Send **
 Send ^i
 Send **
+Return
 
 :*?:...::{U+2026}
 Return
@@ -34,3 +31,9 @@ Return
 
 :*?:>>::{U+00BB}
 Return
+
+::tg::Telegram
+::tdesk::Telegram Desktop
+::tgfa::Telegram for Android
+::tgx::Telegram X
+::tgp::Telegram Premium
