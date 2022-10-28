@@ -9,7 +9,7 @@ CTRL+SHIFT+C => Quick search all apps strings for current selection
 -opens the search result in your default browser
 <b> (Remember to change /nb/ in the script URL to your preferred language code)</b>
 
-CTRL+SHIFT+X => Wraps the selected phrase with [PHRASE]() to quickly make it into a link
+CTRL+SHIFT+X => Wraps the selected phrase with [ PHRASE ]() to quickly make it into a link
 
 CTRL+* => Insert a token wrapped in two asterisks \*\*on each side**
 
