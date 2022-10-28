@@ -18,11 +18,11 @@ Automatically replace ... (three dots) with … (ellipsis) while typing
 Automatically replace << and >> with « and » while typing
 
 Typing the following will replace with result:
-tg => Telegram
-tdesk => Telegram Desktop
-tgfa => Telegram for Android
-tgx => Telegram X
-tgp => Telegram Premium
+tg => Telegram  
+tdesk => Telegram Desktop  
+tgfa => Telegram for Android  
+tgx => Telegram X  
+tgp => Telegram Premium  
 
 
 ### Support and more tools
