@@ -2,7 +2,7 @@
 ^enter::
 Send ^{enter}
 Sleep 500
-Send ^{down}
+Send {down}
 Return
 
 ^+C::
