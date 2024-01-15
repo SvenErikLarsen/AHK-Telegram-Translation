@@ -25,6 +25,14 @@ Return
     Send, ^v  ; Paste the modified text
 return
 
+^u::  ; Setting the hotkey to Ctrl+k
+    Send, ^x  ; Cut the selected text
+    ClipWait  ; Wait for the clipboard to contain data
+    StringUpper, newText, Clipboard  ; Convert the clipboard content to uppercase
+    Clipboard := newText  ; Update the clipboard with the modified text
+    Send, ^v  ; Paste the modified text
+return
+
 ^'::
 Send **
 Send ^i
