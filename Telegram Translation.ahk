@@ -17,6 +17,14 @@ Send ^v
 Send ]()
 Return
 
+^j::  ; Setting the hotkey to Ctrl+j
+    Send, ^x  ; Cut the selected text
+    ClipWait  ; Wait for the clipboard to contain data
+    newText := StrReplace(Clipboard, "*", "")  ; Remove asterisks from the clipboard content
+    Clipboard := newText  ; Update the clipboard with the modified text
+    Send, ^v  ; Paste the modified text
+return
+
 ^'::
 Send **
 Send ^i
