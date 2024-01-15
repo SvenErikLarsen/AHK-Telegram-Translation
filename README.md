@@ -13,6 +13,8 @@ CTRL+SHIFT+X => Wraps the selected phrase with \[PHRASE\]() to quickly make it i
 
 CTRL+* => Insert a token wrapped in two asterisks \*\*on each side**
 
+CTRL+J => Removes all asterisks (*) from selected text
+
 Automatically replace ... (three dots) with … (ellipsis) while typing
 
 Automatically replace << and >> with « and » while typing
