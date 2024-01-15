@@ -15,6 +15,8 @@ CTRL+* => Insert a token wrapped in two asterisks \*\*on each side**
 
 CTRL+J => Removes all asterisks (*) from selected text
 
+CTRL+U => convert selected text to uppercase (ALL CAPS)
+
 Automatically replace ... (three dots) with … (ellipsis) while typing
 
 Automatically replace << and >> with « and » while typing
