@@ -21,6 +21,8 @@ Automatically replace ... (three dots) with … (ellipsis) while typing
 
 Automatically replace << and >> with « and » while typing
 
+Automatically replace -- (double dash) with — (long dash)
+
 Typing the following will replace with result:
 tg => Telegram  
 tdesk => Telegram Desktop  
