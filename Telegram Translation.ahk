@@ -39,6 +39,9 @@ Send ^i
 Send **
 Return
 
+:*?:--::{U+2014}  ;converts double dashes to a long dash
+Return
+
 :*?:...::{U+2026}
 Return
 
